@@ -1,5 +1,8 @@
 # 🏥 Disease Prediction Project
 This project is designed to assist users in predicting potential diseases based on their symptoms. It leverages modern web technologies and machine learning to provide accurate and insightful health predictions.
+
+---
+
 # 🔗 Project Structure
 The system is divided into three main components:
 - 🎨 **Frontend (React)**: [GitHub Repository - React](https://github.com/Maymasi/PredictApp)  
